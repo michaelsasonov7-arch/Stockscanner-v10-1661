@@ -1,1 +1,0 @@
-# Stockscanner-v10-1661
